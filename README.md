@@ -1,4 +1,3 @@
-# BLENDED LEARNING
 # EXP-10 Implementation of Principal Component Analysis (PCA) for Dimensionality Reduction on Energy Data
 
 ## AIM:
